@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.teks_logo {
+	padding-left: 50px;
+  	padding-top: 13px;
+  	font-family: Rockwell, Georgia, "Times New Roman", Times, serif;
+  	color: #0D4383;
+  	text-shadow: rgba(0,0,0,0.5) -1px 0, rgba(0,0,0,0.3) 0 -1px, rgba(255,255,255,0.5) 0 1px, rgba(0,0,0,0.3) -1px -2px;
+}
+.teks_logo h2 {
+	font-size: 50px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.teks_logo h6 {
+  	font-size: 14px;
+	margin-top: 15px;
+	padding-bottom: 20px; 
+}

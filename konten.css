@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+#konten { font-family:Georgia, "Times New Roman", Times, serif; }
+#konten div { margin-bottom: 20px; }
+#konten h2 { color: #A6471A ; }
+#konten h5 {
+	margin-top: 15px;
+	margin-bottom:5px;
+}
+#konten fieldset {
+	border-top-width: 3px;
+	border-right-width: 3px;
+	border-bottom-width: 3px;
+	border-left-width: 3px;
+	border-top-style: double;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #9F9F9F;
+	border-right-color: #9F9F9F;
+	border-bottom-color: #9F9F9F;
+	border-left-color: #9F9F9F;
+	margin-bottom:20px;
+	padding-top:5px;
+}
+#konten fieldset legend { font-weight:bold;	}
+#konten table { width:60%; }
+#konten table td:not(.noborder) {
+	border: solid 1px #D3D3D3;
+	vertical-align: top;
+}	
+#konten table th {
+	font-weight:normal;
+	text-align:center;
+	vertical-align:middle;
+	border: solid 1px #D3D3D3;
+}
